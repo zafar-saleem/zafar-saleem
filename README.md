@@ -12,10 +12,10 @@ If you would like to know about me then please go through my links below:
 
 ### 🎥 Video
 
-<br />
+
 <a href="https://www.youtube.com/watch?v=YkRn2WfzF54" title="Zafar Saleem's video CV/introduction">
-  <p align="center">
-    <img width="75%" src="https://i9.ytimg.com/vi/YkRn2WfzF54/mq2.jpg?sqp=CMiuq5UG&rs=AOn4CLBTPLoCP0K3CQhDT3wj4jDtM4sFgg" alt="Music Caster Video Demo Thumbnail"/>
+  <p align="left">
+    <img width="25%" src="https://i9.ytimg.com/vi/YkRn2WfzF54/mq2.jpg?sqp=CMiuq5UG&rs=AOn4CLBTPLoCP0K3CQhDT3wj4jDtM4sFgg" alt="Music Caster Video Demo Thumbnail"/>
   </p>
 </a>
 
