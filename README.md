@@ -1,5 +1,5 @@
 
-### About me
+### 📋 About me
 #### Hi there 👋
 If you would like to know about me then please go through my links below:
 
@@ -19,7 +19,7 @@ If you would like to know about me then please go through my links below:
   </p>
 </a>
 
-### 💬 Contact me
+### 📩 Contact me
 
 [zafarsaleem3@gmail.com](zafarsaleem3@gmail.com)
 <!--
