@@ -15,7 +15,7 @@ If you would like to know about me then please go through my links below:
 
 <a href="https://www.youtube.com/watch?v=YkRn2WfzF54" title="Zafar Saleem's video CV/introduction">
   <p align="left">
-    <img width="25%" src="https://i9.ytimg.com/vi/YkRn2WfzF54/mq2.jpg?sqp=CKCUrZUG&rs=AOn4CLAjcR0IAY-4o2GS8VWs2MJsNXJ6SQ" alt="Zafar Saleem's video introduction"/>
+    <img width="25%" src="https://github.com/zafar-saleem/zafar-saleem/blob/main/assets/video-cv.jpeg" alt="Zafar Saleem's video introduction"/>
   </p>
 </a>
 
