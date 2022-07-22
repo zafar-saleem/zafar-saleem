@@ -9,6 +9,7 @@ If you would like to know about me then please go through my links below:
 * Linkedin: [https://linkedin.com/in/zeesaleem](https://linkedin.com/in/zeesaleem)
 * Medium: [https://zafarsaleem.medium.com](https://zafarsaleem.medium.com)
 * LogRocket: [https://blog.logrocket.com/author/zafarsaleem](https://blog.logrocket.com/author/zafarsaleem/)
+* Instagram: [https://www.instagram.com/zafarsaleem.fotos/](https://www.instagram.com/zafarsaleem.fotos/)
 
 ### 🎥 Video
 
