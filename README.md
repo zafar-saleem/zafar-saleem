@@ -11,7 +11,7 @@ If you would like to know about me then please go through my links below:
 * LogRocket: [https://blog.logrocket.com/author/zafarsaleem](https://blog.logrocket.com/author/zafarsaleem/)
 * Instagram: [https://www.instagram.com/zafarsaleem.fotos/](https://www.instagram.com/zafarsaleem.fotos/)
 
-### 🎥 Video
+### 🎥 Video Intro
 
 
 <a href="https://www.youtube.com/watch?v=YkRn2WfzF54" title="Zafar Saleem's video CV/introduction">
