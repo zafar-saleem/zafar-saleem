@@ -6,7 +6,7 @@ If you would like to know about me then please go through my links below:
 * Website: [https://zafar-saleem.github.io](https://zafar-saleem.github.io)
 * GitHub: [https://github.com/zafar-saleem](https://github.com/zafar-saleem)
 * Gitlab: [https://gitlab.com/zsaleem](https://gitlab.com/zsaleem)
-* Linkedin: [https://www.linkedin.com/in/zafar-saleem-7a022425b/](https://linkedin.com/in/zeesaleem](https://www.linkedin.com/in/zafar-saleem-7a022425b/)
+* Linkedin: [https://www.linkedin.com/in/zafar-saleem-7a022425b/](https://www.linkedin.com/in/zafar-saleem-7a022425b/)
 * Medium: [https://zafarsaleem.medium.com](https://zafarsaleem.medium.com)
 * LogRocket: [https://blog.logrocket.com/author/zafarsaleem](https://blog.logrocket.com/author/zafarsaleem/)
 
