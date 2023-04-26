@@ -7,7 +7,7 @@ If you would like to know about me then please go through my links below:
 * GitHub: [https://github.com/zafar-saleem](https://github.com/zafar-saleem)
 * Gitlab: [https://gitlab.com/zsaleem](https://gitlab.com/zsaleem)
 * Linkedin: [https://www.linkedin.com/in/zeesaleem](https://www.linkedin.com/in/zeesaleem/)
-* Medium: [https://zafarsaleem.medium.com](https://zafarsaleem.medium.com)
+* Medium: [https://medium.com/@zafarsaleem](https://medium.com/@zafarsaleem)
 * LogRocket: [https://blog.logrocket.com/author/zafarsaleem](https://blog.logrocket.com/author/zafarsaleem/)
 
 ### 🎥 Video Intro
