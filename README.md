@@ -21,7 +21,9 @@ If you would like to know about me then please go through my links below:
 
 ### 📩 Contact me
 
-[zafarsaleem3@gmail.com](zafarsaleem3@gmail.com)
+* Email: zafarsaleem3@gmail.com
+* Mobile: +971509700336
+* WhatsApp: +971509700336
 <!--
 **zafar-saleem/zafar-saleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
