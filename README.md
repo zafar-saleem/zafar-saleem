@@ -10,6 +10,7 @@ If you would like to know about me then please go through my links below:
 * Medium: [https://medium.com/@zafarsaleem](https://medium.com/@zafarsaleem)
 * LogRocket: [https://blog.logrocket.com/author/zafarsaleem](https://blog.logrocket.com/author/zafarsaleem/)
 
+<!--
 ### 🎥 Video Intro
 
 
@@ -18,12 +19,10 @@ If you would like to know about me then please go through my links below:
     <img width="25%" src="https://github.com/zafar-saleem/zafar-saleem/blob/main/assets/video-cv.jpeg" alt="Zafar Saleem's video introduction"/>
   </p>
 </a>
-
+-->
 ### 📩 Contact me
 
 * Email: zafarsaleem3@gmail.com
-* Mobile: +971585825635
-* WhatsApp: +971585825635
 <!--
 **zafar-saleem/zafar-saleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
