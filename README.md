@@ -4,7 +4,7 @@
 If you would like to know about me then please go through my links below:
 
 * Website: [https://zafar-saleem.github.io](https://zafar-saleem.github.io)
-* GitHub: [https://github.com/zafar-saleem](https://github.com/zafar-saleem)
+* Github: [https://github.com/zafar-saleem](https://github.com/zafar-saleem)
 * Gitlab: [https://gitlab.com/zsaleem](https://gitlab.com/zsaleem)
 * Linkedin: [https://www.linkedin.com/in/zeesaleem](https://www.linkedin.com/in/zeesaleem/)
 * Blog: [https://zafarsaleem.medium.com](https://zafarsaleem.medium.com)
