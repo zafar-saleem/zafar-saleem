@@ -8,7 +8,6 @@ If you would like to know about me then please go through my links below:
 * Gitlab: [https://gitlab.com/zsaleem](https://gitlab.com/zsaleem)
 * Linkedin: [https://www.linkedin.com/in/zeesaleem](https://www.linkedin.com/in/zeesaleem/)
 * Blog: [https://zafarsaleem.medium.com](https://zafarsaleem.medium.com)
-* LogRocket: [https://blog.logrocket.com/author/zafarsaleem](https://blog.logrocket.com/author/zafarsaleem/)
 
 <!--
 ### 🎥 Video Intro
